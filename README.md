@@ -1,7 +1,5 @@
-# Erweiterte Version mit mehr inhaltlichen Punkten für das README-Profil
 
-readme_extended = """
-# 👋 Hallo, ich bin @danijel
+# 👋 Hallo, ich bin @jokicdanijel
 
 ## 👤 Über mich  
 Ich bin ein leidenschaftlicher Softwareentwickler mit einem besonderen Fokus auf KI-Systeme, Backend-Architektur und Automatisierung.  
@@ -37,7 +35,7 @@ Mein Ziel ist es, technische Exzellenz mit kreativer Intelligenz zu verbinden �
 
 ## 📫 Kontakt  
 - E-Mail: xxjokic01@gmail.com  
-- GitHub: [@danijel](https://github.com/danijel)  
+- GitHub: [@jokicdanijel](https://github.com/danijel)  
 
 ## 😄 Pronomen  
 - er/ihm  
@@ -51,11 +49,7 @@ Mein Ziel ist es, technische Exzellenz mit kreativer Intelligenz zu verbinden �
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-""".strip()
 
-# Speichern als erweiterte README.md
-extended_readme_path = "/mnt/data/README_danijel.md"
-with open(extended_readme_path, "w") as file:
     file.write(readme_extended)
 
 extended_readme_path
